@@ -1,5 +1,5 @@
-# pyconmx
-Repositorio del sitio django-cms para el pyconmx
+# PyConMX
+Repositorio del sitio django-cms para el PyConMX o Conferencia de Python en Mexico.
 
 ## ToDo
 Es necesario actualizar este dejango-cms ya que usa un parche depreciado por el nuevo motor de GAE. Se debera reemplazar por Django-nonrel ubicado en https://github.com/django-nonrel
